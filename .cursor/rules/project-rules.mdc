@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+-It will be a simple webiste in which we will se the current IPL live score using the https://cricketdata.org/ API.
+
+-use Axios to handle api
